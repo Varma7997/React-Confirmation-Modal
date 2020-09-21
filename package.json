@@ -11,6 +11,7 @@
     "react-modal": "^3.11.2",
     "react-robot": "^0.2.1",
     "react-scripts": "3.4.3",
+    "robot-hooks": "^0.3.5",
     "robot3": "^0.2.18"
   },
   "scripts": {
